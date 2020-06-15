@@ -21,12 +21,7 @@ function showCatFacts(data) {
   
 }  
 
-    // let numInput = document.getElementById("num-facts");
-    // let numfacts = numInput.Value;
- 
-    // for(let i=0; i< numfacts; i++) {
-    //     getcatFacts();
-    //   }
+    
 document.getElementById("submit-name").addEventListener("click",getcatFacts)
 
 
